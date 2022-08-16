@@ -10,11 +10,13 @@
     background-position: center;
     background-size: cover;
 }
-.logo{
+nav h1{
     width: 170px;
     position: absolute;
     top: 4%;
-    left:8px;
+    left: 5%;
+    color: aliceblue;
+    font-size: 50px;
    
     
 }
